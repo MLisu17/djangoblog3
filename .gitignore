@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+Mojevenv3
+db.sqlite3
+/static
+.DS_STORE
